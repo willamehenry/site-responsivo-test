@@ -1,32 +1,42 @@
-
-
 h1 {
 
     color: rgb(31, 226, 31);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
+    text-shadow: 20px 12px 20px green;
     width: 380px auto;
-    
+
 }
 
 .fid {
 
-    width: 100px ;
-   
+    width: 100px;
+
     margin: auto;
 
 
 }
-.butoes{
-padding: 2rem;
 
-width: 350px  auto; 
-   
+.butoes {
+    padding: 2rem;
+
+    width: 350px auto;
+
 
 
 }
-section {
+
+
+.sec {
+
+
     margin-top: 2rem;
     text-align: center;
+    border:  3px red;
+    border-radius: 3rem;
+    background-color: gainsboro;
+    border-width: 10px;
+    border-style: double;
+    height: 17rem;
+    border-right-width: 20px;
 
 }
